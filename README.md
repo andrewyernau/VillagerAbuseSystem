@@ -14,7 +14,8 @@ VillagerAbuseSystem is a Minecraft plugin designed to prevent players from explo
 Download the latest version of the plugin from :
 * Modrinth: https://modrinth.com/plugin/villagerabusesystem
 * Spigot: Not added yet
-* Bukkit: Not added yet
+* Bukkit: Not added yet.
+
 Copy the VillagerAbuseSystem.jar file to your Minecraft server's plugins directory.
 Restart your server to load the plugin.
 
@@ -50,9 +51,13 @@ When a player interacts with a villager and the villager acquires a profession, 
 ### Contributing
 
   Fork the repository.
+
   Create your feature branch (git checkout -b feature/Feature).
+
   Commit your changes (git commit -m 'Your contribution resume').
+
   Push to the branch (git push origin feature/Feature).
+
   Open a pull request.
 
 ### License
