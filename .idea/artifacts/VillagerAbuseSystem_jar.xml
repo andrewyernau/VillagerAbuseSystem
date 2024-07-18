@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VillagerAbuseSystem:jar">
+    <output-path>$PROJECT_DIR$/../Done projects</output-path>
+    <root id="archive" name="VillagerAbuseSystem.jar">
+      <element id="module-output" name="VillagerAbuseSystem" />
+    </root>
+  </artifact>
+</component>

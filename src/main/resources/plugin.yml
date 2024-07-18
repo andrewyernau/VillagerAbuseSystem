@@ -1,0 +1,6 @@
+main: vas.andrewyernau.VillagerAbuseSystem
+version: 1.0.0
+name: VillagerAbuseSystem
+author: andrewYerNau
+api-version: 1.13
+description: V.A.S Prevents players from exploiting the re-roll mechanic of villagers. Once a villager gets a profession, they won't change it even if their workstation is removed and replaced.
