@@ -13,7 +13,7 @@ VillagerAbuseSystem is a Minecraft plugin designed to prevent players from explo
 
 Download the latest version of the plugin from :
 * Modrinth: https://modrinth.com/plugin/villagerabusesystem
-* Spigot: Not added yet
+* Spigot: https://www.spigotmc.org/resources/villager-abuse-system.118947
 * Bukkit: Not added yet.
 
 Copy the VillagerAbuseSystem.jar file to your Minecraft server's plugins directory.
